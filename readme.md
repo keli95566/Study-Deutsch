@@ -15,5 +15,9 @@ A Simple React-Native Application that Makes Learning Language Fun!
 
 - add vocabulary cards for memorization
 - intuitive way of card swiping for indication of memorization
+- a review card stacks for refreshing memorization about certain vocabulary.
 
+#### Application Demonstration
+
+![picture](./App_demo.gif)
 
